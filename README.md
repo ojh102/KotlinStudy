@@ -1,4 +1,5 @@
 # 코틀린 스터디
+## [GDG Kotlin Study Wiki](https://github.com/gdgand/kotlin-study/wiki)
 ## 개인목표 설정
 ### 각 주차마다 해당 항목을 학습하며, [토이프로젝트](https://github.com/ojh102/OverTime)를 진행!
 #### 1주차
